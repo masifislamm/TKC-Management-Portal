@@ -63,7 +63,7 @@ export default function Landing() {
         </div>
         
         <div className="text-center text-sm text-muted-foreground pt-8">
-          © 2024 TKC
+          © 2026 TKC
         </div>
       </div>
     </div>
